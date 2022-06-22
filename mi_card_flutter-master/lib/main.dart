@@ -14,7 +14,6 @@ class Myapp extends StatelessWidget { //
       home: Scaffold(
         backgroundColor: Colors.teal,
         body: SafeArea(
-<<<<<<< HEAD
             // 앱 화면의 배젤들을 침범하지 않는 화면 영역
             /*
           child: Container( // 
@@ -29,18 +28,6 @@ class Myapp extends StatelessWidget { //
             padding: EdgeInsets.all(20.0),  // 패딩은 컨테이너 내부 요소가 컨테이너 벽과 멀어지는 거리를 지정하며 속성은 마진과 똑같다
             color: Colors.white,
             child: Text('Hello'),
-=======
-          child : Column(
-            crossAxisAlignment: CrossAxisAlignment.end,
-            children: <Widget> [
-              Container(
-                height: 100.0,
-                width: 100.0,
-                color: Colors.white,
-                child: Text('Container 1'),
-              ),
-            ],
->>>>>>> dc04c36801ec749571d983bbdb80593e9cc1ec1f
           ),
           */
             child: Column(// Column은 행으로 Row는 열로 배치한다

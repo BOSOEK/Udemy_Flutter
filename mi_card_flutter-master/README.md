@@ -1,5 +1,7 @@
 # Section 6 - Mi Card
 
+<img src="https://cdn.discordapp.com/attachments/788213236125532164/989075945841389598/Screenshot_20220622-165432.png" width="200">
+
 ## Our Goal
 
 Now that you've seen how to create a Flutter app entirely from scratch, we're going to go further and learn more about how to design user interfaces for Flutter apps.
